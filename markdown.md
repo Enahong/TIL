@@ -73,14 +73,6 @@ Click [here](https://velog.io/)
 : 왼쪽 정렬은 기본값이고 오른쪽 정렬은 이미지 태그에 align 속성을 준다.
 
 `<img src="image_src" align="right">`
-* 결과👉
-<img src="https://images.velog.io/images/ena_hong/post/ca8530c0-eda1-4e86-959f-9aca06ef2df6/image.png" width=150 align="right">
-
-
-
-
-
-
 
 ***
 ### 4. 이모지 삽입
